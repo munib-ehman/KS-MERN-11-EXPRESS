@@ -1,0 +1,22 @@
+{
+  "development": {
+    "host":"localhost",
+    "port": 5432,
+    "username":"postgres",
+    "password" : "muneeb@12",
+    "database":"MERN_CLASS",
+    "dialect" : "postgres"
+  },
+  "db":{
+    "host":"localhost",
+    "port": 5432,
+    "username":"postgres",
+    "password" : "muneeb@12",
+    "database":"MERN_CLASS",
+    "dialect" : "postgres",
+    "logging" : false
+  },
+  "jwt":{
+      "secret":"tzegnVIiJhNXTItOdtC6SstQsMDLRXpk2GuI5OWiro8="
+  }
+}
